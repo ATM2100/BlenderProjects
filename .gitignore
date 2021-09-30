@@ -1,0 +1,10 @@
+# Blender backup filse
+
+**/*.blend[1-9]
+
+#Idk what this is but some other guy though some other guy had this so it must be important
+**/dist/
+
+#Python stuff
+**/*.pyc
+**/__pycach_
